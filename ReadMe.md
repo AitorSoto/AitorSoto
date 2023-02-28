@@ -1,4 +1,4 @@
-![snake gif](https://github.com/AitrollSr/AitrollSr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AitorSoto/AitorSOto/blob/output/github-contribution-grid-snake.gif)
 
 
 # 💫 About Me:
