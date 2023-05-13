@@ -6,10 +6,24 @@
 
 
 # 💫 About Me:
-💻 Java Backend Developer  
-🌱 Currently learning Elm  
-❤️ Java & Springboot, Baby Yoda and penguins :penguin:  
+# 🚀 Hello, Digital Universe! 🚀
 
+I'm Aitor, your friendly neighborhood code-wrangler! My keyboard is my lasso, and bugs are my outlaw. I've been taming the Wild West of the web since Y2K was a thing (🙄 remember that?).
+
+## 🧠 Coding Know-How 🧠
+
+I'm a seasoned soldier in the Java army, a Spring Boot boffin, and a SQL samurai. My code is clean, my comments are clear, and I refactor more often than a vain vampire checks the mirror. 
+
+## 🌱 Always Growing 🌱
+
+I've got a restless brain that's always looking for the next big thing. Currently, I'm diving into the delightful depths of Elm. Not the tree, silly! The functional programming language. 😅
+
+## 💻 Code is Life 💻
+
+When I'm not dreaming in binary or talking to rubber ducks (it's a debugging thing, don't worry), I enjoy a good coffee, a bad pun, and an ugly bug to squash.
+
+Here's to more caffeine-fueled coding adventures! 🚀👨‍💻
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
