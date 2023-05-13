@@ -8,6 +8,8 @@
 # 💫 About Me:
 # 🚀 Hello, I'm Aitor, a Jedi in the coding universe! 🌌
 
+In case you haven't caught on, I'm a huge Star Wars fan — okay, let's just say it, I'm a Star Wars geek. Now, back to our galaxy...
+
 With several years of training in the Force (ahem, I mean programming 💻), I've become a trusty ally for any team. No matter how challenging the problem, I always find a way through the labyrinth of zeros and ones.
 
 ## 💻 Tech Arsenal 🤖
