@@ -6,24 +6,23 @@
 
 
 # 💫 About Me:
-# 🚀 Hello, Digital Universe! 🚀
+# 🚀 Hello, I'm Aitor, a Jedi in the coding universe! 🌌
 
-I'm Aitor, your friendly neighborhood code-wrangler! My keyboard is my lasso, and bugs are my outlaw. I've been taming the Wild West of the web since Y2K was a thing (🙄 remember that?).
+With several years of training in the Force (ahem, I mean programming 💻), I've become a trusty ally for any team. No matter how challenging the problem, I always find a way through the labyrinth of zeros and ones.
 
-## 🧠 Coding Know-How 🧠
+## 💻 Tech Arsenal 🤖
 
-I'm a seasoned soldier in the Java army, a Spring Boot boffin, and a SQL samurai 🥷. My code is clean, my comments are clear, and I refactor more often than a vain vampire checks the mirror. 
+Java is my lightsaber ⚔️, the instrument I wield with mastery. Spring Boot and SQL are like my trusty droids, helping me navigate through any technical challenge.
 
-## 🌱 Always Growing 🌱
+## 🌱 Jedi in Training 📚
 
-I've got a restless brain that's always looking for the next big thing. Currently, I'm diving into the delightful depths of Elm. Not the tree, silly! The functional programming language. 😅
+But even a Jedi is always learning. Currently, I'm exploring a new form of the Force: Elm, a functional programming language. And no, it's not a type of tree on Endor, it's a powerful tool for creating web applications!
 
-## 💻 Code is Life 💻
+## ☕ Life Outside the Code 🌠
 
-When I'm not dreaming in binary or talking to rubber ducks (it's a debugging thing, don't worry), I enjoy a good coffee, a bad pun, and an ugly bug to squash.
+When I'm not meditating in code or consulting with my droids (it's a debugging technique, don't worry), you can find me enjoying a good outer worlds coffee, laughing at droid jokes, and seeking any Sith bugs to defeat.
 
-Here's to more caffeine-fueled coding adventures! 🚀👨‍💻
- 
+May the Code Force be with you! 🚀👨‍💻 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
