@@ -14,7 +14,7 @@ With several years of training in the Force (ahem, I mean programming 💻), I'v
 
 ## 💻 Tech Arsenal 🤖
 
-Java is my lightsaber ⚔️, the instrument I wield with mastery. Spring Boot and SQL are like my trusty droids, helping me navigate through any technical challenge.
+Java is my lightsaber ⚔️, the instrument I wield with mastery. Spring Boot and SQL are like my trusty droids, helping me navigate through any technical challenge. But the Force is strong with more allies in my coding journey - JavaScript, Flutter, Node.js, and MongoDB, each a potent ally in the battle against coding challenges.
 
 ## 🌱 Jedi in Training 📚
 
@@ -24,7 +24,7 @@ But even a Jedi is always learning. Currently, I'm exploring a new form of the F
 
 When I'm not meditating in code or consulting with my droids (it's a debugging technique, don't worry), you can find me enjoying a good outer worlds coffee, laughing at droid jokes, and seeking any Sith bugs to defeat.
 
-May the Code Force be with you! 🚀👨‍💻 
+Remember, as Master Yoda said, "Do or do not. There is no try." So, let's code fearlessly and remember, May the Code Force be with you! 🚀👨‍💻
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
