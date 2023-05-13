@@ -12,7 +12,7 @@ I'm Aitor, your friendly neighborhood code-wrangler! My keyboard is my lasso, an
 
 ## 🧠 Coding Know-How 🧠
 
-I'm a seasoned soldier in the Java army, a Spring Boot boffin, and a SQL samurai. My code is clean, my comments are clear, and I refactor more often than a vain vampire checks the mirror. 
+I'm a seasoned soldier in the Java army, a Spring Boot boffin, and a SQL samurai 🥷. My code is clean, my comments are clear, and I refactor more often than a vain vampire checks the mirror. 
 
 ## 🌱 Always Growing 🌱
 
