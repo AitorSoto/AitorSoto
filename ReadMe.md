@@ -8,23 +8,47 @@
 # 💫 About Me:
 # 🚀 Hello, I'm Aitor, a Jedi in the coding universe! 🌌
 
-In case you haven't caught on, I'm a huge Star Wars fan — okay, let's just say it, I'm a Star Wars geek. Now, back to our galaxy...
+# Hello, galactic travelers! I'm Aitor 👋
 
-With several years of training in the Force (ahem, I mean programming 💻), I've become a trusty ally for any team. No matter how challenging the problem, I always find a way through the labyrinth of zeros and ones.
+Welcome to my corner in the coding galaxy! As a passionate Star Wars enthusiast, you'll find the Force strongly present in my development journey. I'm a dedicated developer experienced in a wide range of technologies, ready to embark on thrilling coding adventures.
 
-## 💻 Tech Arsenal 🤖
+## About Me
 
-Java is my lightsaber ⚔️, the instrument I wield with mastery. Spring Boot and SQL are like my trusty droids, helping me navigate through any technical challenge. But the Force is strong with more allies in my coding journey - JavaScript, Flutter, Node.js, and MongoDB, each a potent ally in the battle against coding challenges.
+- 🌌 Huge Star Wars fan, the saga that always inspires me on my journey!
+- 💻 Experienced in Java, React, TypeScript, JavaScript, MongoDB, MySQL, Flutter, Node.js, Elm, and Spring Boot.
+- 🚀 Pushing the boundaries of coding, one star system at a time!
 
-## 🌱 Jedi in Training 📚
+### Tech Stack
 
-But even a Jedi is always learning. Currently, I'm exploring a new form of the Force: Elm, a functional programming language. And no, it's not a type of tree on Endor, it's a powerful tool for creating web applications!
+```java
+public class Developer {
+    private String name = "Aitor";
+    private List<String> technologies = Arrays.asList(
+        "Java", "React", "TypeScript", "JavaScript",
+        "MongoDB", "MySQL", "Flutter", "Node.js", "Elm", "Spring Boot"
+    );
+    
+    public String getName() {
+        return name;
+    }
+    
+    public List<String> getTechnologies() {
+        return technologies;
+    }
+    
+    public void embarkOnCodingAdventures() {
+        System.out.println("Let's conquer the coding galaxy together!");
+    }
+}
+```
 
-## ☕ Life Outside the Code 🌠
+## Interests 🌟
+- 🌌 Exploring new galaxies of code
+- 💡 Solving coding puzzles like a Jedi Master
+- ☕ Enjoying space-themed coffee and droid banter
 
-When I'm not meditating in code or consulting with my droids (it's a debugging technique, don't worry), you can find me enjoying a good outer worlds coffee, laughing at droid jokes, and seeking any Sith bugs to defeat.
 
-Remember, as Master Yoda said, "Do or do not. There is no try." So, let's code fearlessly and remember, May the Code Force be with you! 🚀👨‍💻
+### May the Code Force be with you! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
