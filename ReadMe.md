@@ -5,29 +5,56 @@
 </picture>
 
 
-# 💫 About Me:
-# 🚀 Hello, I'm Aitor, a Jedi in the coding universe! 🌌
+# 💫 About Me
 
-In case you haven't caught on, I'm a huge Star Wars fan — okay, let's just say it, I'm a Star Wars geek. Now, back to our galaxy...
+# 🚀 Hello, I'm Aitor!
+### Backend Developer | Software Engineer
 
-With several years of training in the Force (ahem, I mean programming 💻), I've become a trusty ally for any team. No matter how challenging the problem, I always find a way through the labyrinth of zeros and ones.
+I am a software developer with a primary focus on **Backend Development**. I specialize in building robust, scalable server-side architectures and efficient data management systems. 
 
-## 💻 Tech Arsenal 🤖
+While my core expertise lies in backend technologies, I have a strong interest in the **Frontend ecosystem**. I enjoy bridging the gap between complex logic and user-facing interfaces, and I am constantly expanding my toolkit to better understand the full lifecycle of modern web applications.
 
-Java is my lightsaber ⚔️, the instrument I wield with mastery. Spring Boot and SQL are like my trusty droids, helping me navigate through any technical challenge. But the Force is strong with more allies in my coding journey - JavaScript, Flutter, Node.js, and MongoDB, each a potent ally in the battle against coding challenges.
+---
 
-## 🌱 Jedi in Training 📚
+## 💻 Technical Expertise
 
-But even a Jedi is always learning. Currently, I'm exploring a new form of the Force: Elm, a functional programming language. And no, it's not a type of tree on Endor, it's a powerful tool for creating web applications!
+### 🏗️ Backend & Systems (Core)
+* **Java & Spring Boot:** My main stack for creating high-performance microservices and REST APIs.
+* **Databases:** Proficient in **SQL** for relational data and **MongoDB** for flexible NoSQL solutions.
 
-## ☕ Life Outside the Code 🌠
+### 🎨 Frontend & Mobile (Interests)
+* **Modern Web:** Currently exploring **React**, **TypeScript**, and **JavaScript** to build interactive user interfaces.
+* **Mobile Development:** Skilled in **Flutter** for creating cross-platform mobile experiences.
 
-When I'm not meditating in code or consulting with my droids (it's a debugging technique, don't worry), you can find me enjoying a good outer worlds coffee, laughing at droid jokes, and seeking any Sith bugs to defeat.
+---
 
-Remember, as Master Yoda said, "Do or do not. There is no try." So, let's code fearlessly and remember, May the Code Force be with you! 🚀👨‍💻
+## 🛠️ Skills & Tools
+
+### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🌱 Continuous Learning
+I am currently focusing on:
+* **Cloud Infrastructure:** Expanding my knowledge in automated deployment and system scalability.
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
+
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aitorsotojimnez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aitorsotojimenez)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
